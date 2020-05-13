@@ -1,0 +1,22 @@
+{
+  "name": "gpss",
+  "version": "1.0.0",
+  "description": "gpss interpriter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorKekor/GPSS.git"
+  },
+  "author": "Bezrukov Egor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgorKekor/GPSS/issues"
+  },
+  "homepage": "https://github.com/EgorKekor/GPSS#readme",
+  "dependencies": {
+    "collections": "^5.1.11"
+  }
+}
